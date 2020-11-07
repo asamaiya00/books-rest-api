@@ -1,12 +1,38 @@
 {
-  "posts":[
+  "books": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "author": "Paulo Coelho",
+      "id": "1",
+      "isbn": "64341",
+      "title": "Alchemist"
+    },
+    {
+      "author": "JK Rowling",
+      "id": "2",
+      "isbn": "427998",
+      "title": "Harry potter"
+    },
+    {
+      "author": "Spencer Johnson",
+      "id": "3",
+      "isbn": "123124",
+      "title": "Who moved my cheese"
+    },
+    {
+      "author": "chetan bhagat",
+      "isbn": "27493",
+      "title": "three mistakes of my life",
+      "id": "4"
     }
   ],
-  "comments" : [
+  "posts": [
+    {
+      "id": 0,
+      "title": "First post!",
+      "content": "My first content!"
+    }
+  ],
+  "comments": [
     {
       "id": 0,
       "content": "Wow such content!",
